@@ -1,0 +1,16 @@
+div :nth-child(1){
+    color:blue;
+}
+div :nth-child(2){
+    color:brown;
+}
+div :nth-child(3){
+    color:violet;
+}
+/* pseduo selectors */
+/* a:hover */
+body{
+    background-image: url(./image/th\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}

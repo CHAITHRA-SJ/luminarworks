@@ -1,0 +1,22 @@
+h1{
+    color:darkviolet ;
+}
+span{
+    color: violet;
+}
+#l1{
+    color: red;
+}
+button{
+    color: white;
+    background: rgb(56, 4, 80);
+    border-radius: 20px;
+    height: 40px;
+    width: 90px;
+    border: white 2px solid;
+}
+button:hover{
+    background-color: white;
+    color: rgb(56, 4, 80);
+    border: rgb(56, 4, 80) 2px solid;
+}

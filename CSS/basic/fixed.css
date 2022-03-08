@@ -1,0 +1,9 @@
+/* fixed  - fix a box above the screen */
+/* sticky */
+div{
+    background-color: blueviolet ;
+    width: 500px;
+    position: fixed;
+    left: 400px;
+    top: 100px;
+}

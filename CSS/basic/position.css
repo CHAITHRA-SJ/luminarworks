@@ -1,0 +1,14 @@
+div{
+    height: 300px;
+    width: 200px;
+    background-color: black;
+    color: white;
+    /* padding-left: 10px;-- starting space 
+    padding-top:20px;  padding-right,padding-bottom*/
+    padding: 20px;
+    border: aqua 2px solid;
+}
+#a1{
+    margin-top:100px
+}
+/* block element(h),inline element(link) */

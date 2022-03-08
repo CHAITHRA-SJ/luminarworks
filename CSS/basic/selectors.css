@@ -1,0 +1,29 @@
+h1{
+    color: #873e23;
+    text-align: center;
+}
+h2{
+    color: red;
+    text-align: left;
+}
+#a1{
+    color:blue;
+    text-align: center;
+}
+.c{
+    color: violet;
+    text-align: right;
+}
+/* tag selector */
+/* id selector-# */
+/* class selector-. */
+div{
+    background-color: antiquewhite;
+}
+#a2{
+    background-color: aquamarine;
+    color: brown;
+}
+/* text-align property 
+ left and start
+right and end */
